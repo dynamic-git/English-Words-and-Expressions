@@ -2,3 +2,6 @@
 
 upload上传
 download下载
+sign up注册
+sign in登录
+sign out退出
