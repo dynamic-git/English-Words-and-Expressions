@@ -2,6 +2,13 @@
 
 upload上传
 download下载
+exception例外
+
+
+
+其它
+
+exception异常
 sign up注册
 sign in登录
 sign out退出
