@@ -9,6 +9,8 @@ submit提交
 track跟踪
 push推；按
 pull拉
+initialize初始化
+add添加
 
 
 
