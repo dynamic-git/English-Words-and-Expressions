@@ -5,6 +5,7 @@ download下载
 exception例外
 repository仓库
 handle处理
+submit提交
 
 
 
@@ -15,3 +16,4 @@ sign up注册
 sign in登录
 sign out退出
 stage暂存
+commit提交
