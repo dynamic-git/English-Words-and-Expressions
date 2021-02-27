@@ -11,6 +11,7 @@ push推；按
 pull拉
 initialize初始化
 add添加
+discard丢弃
 
 
 
@@ -25,3 +26,4 @@ commit提交
 push推送
 pull拉取
 handle操作
+semaphore信号量
